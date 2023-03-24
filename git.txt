@@ -1,0 +1,5 @@
+The ff are the working areas in the local Repo
+i Working Area
+ii Staging Area
+iii Commit Area 
+
